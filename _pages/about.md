@@ -1,27 +1,35 @@
 ---
 layout: about
-title: about
+title: Bne
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Umut Berkay Altintas
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+#profile:
+#  align: right
+#  image: prof_pic.jpg
+#  image_circular: false # crops the image to make it circular
+#  address: >
+#    <p>555 your office number</p>
+#    <p>123 your address street</p>
+#    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi I will change this!!!! :)
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+{% include figure.html path="assets/img/uba.asos.wide.png" class="img-fluid rounded" zoomable=true %}
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<h3>Who is this guy?</h3>
+Thank you for asking :) 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+---
+
+My name is Berkay (Bear-Kai), a childlike researcher trying to explore the world on its own. 
+
+**A bit nerd:** I am currently a Ph.D. student in Bioinformatics program at University of British Columbia (UBC), working in Vancouver Prostate Centre (VPC). With that said, I am a proud member of [Lack Lab](https://lacklab.ku.edu.tr/). Check out our cool publications!
+
+**A bit artsy:** Visual apealling satisfies me a lot. I love photography, digital or analog. Don't forget to check some of my [galleries](/al-folio/gallery/)!
+
+**A bit traverler:** Who wouldn't like travelling. As everybody, I as well try my best to visit and experience as much cities as possible. 

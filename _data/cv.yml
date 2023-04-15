@@ -2,96 +2,108 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Umut Berkay Altintas
     - name: Date of Birth
-      value: 14th March 1879
+      value: 1st March 1996
     - name: Languages
-      value: English, German
+      value: Turkish, English, Spanish
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Doctor of Philosophy, Bioinformatics
+      institution: University of British Columbia, Vancouver, Canada
+      year: Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Investigating the function of cis-regulatory element networks on gene transcription.
+    - title: Master of Science, Computational Sciences and Engineering
+      institution: Koc University, Istanbul, Turkey
+      year: 2020-2022
       description:
-        - Description 1.
-        - Description 2.
+        - Examining the androgen receptor cis-regulatory element network in prostate cancer cells and their intrinsic potentials to discover individual regulatory element’s role in the network.
+    - title: Bachelor of Science, Molecular Biology and Genetics
+      institution: Middle East Technical University, Ankara, Turkey
+      year: 2015-2019
+      description:
+        - Developing a Python based program which searches for similar genomic patterns of genomes of specified microorganism groups on ancient DNA data to draw a conclusion about the microbiome of the sample
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Graduate Research Assistant
+      institution: Vancouver Prostate Center (University of British Columbia), Vancouver, Canada
+      year: 2022 - Present
+
+    - title: Graduate Research Assistant
+      institution: Middle East Technical University, Ankara, Turkey
+      year: Feb 2020 - Jun 2022
+      description: Examining the androgen receptor cis-regulatory element network in prostate cancer cells and their intrinsic potentials to discover individual regulatory element’s role in the network.
+
+    
+    - title: Undergrad student 
+      institution: Middle East Technical University, Ankara, Turkey
+      year: Oct 2018 - Jun 2019
+      description: Comparing brain transcriptomes of human and chimpanzee to suggest positively selected genes for advanced thinking ability of humans, and case analysis on WGS data of a patient with a rare genetic disease to report candidate disease associated variations
+
+    - title: Intern
+      institution: GeoGenetics (University of Copenhagen), Copenhagen, Denmark
+      year: Jun 2018 - Aug 2018
+      description: Determining pathogenic microorganism species that cause zoonotic disease in Sierra Leone and Congo Democratic Republic by analyzing metagenomic data of small mammals
 
     - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+      institution: Middle East Technical University, Ankara, Turkey
+      year: Dec 2016 - Jun 2019
+      description: Developing a Python based program which searches for similar genomic patterns of genomes of specified microorganism groups on ancient DNA data to draw a conclusion about the microbiome of the sample.
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/lacklab/rnaseq-pipeline">rnaseq-seq pipeline</a>
+      year: 2020-now
+      description: Wow! an RNAseq pipeline!
+    - title: <a href="https://github.com/lacklab/chipseq_pipeline">chip-seq pipeline</a>
+      year: 2021-now
+      description: Wow! a ChIPseq pipeline!
+    - title: <a href="https://github.com/lacklab/starrseq-pipeline">starrseq-seq pipeline</a>
+      year: 2020-2022
+      description: Wow! a STARRseq pipeline!
+      
+    - title: <a href="https://github.com/breambio/bluegill">bluegill</a>
+      year: 2022-now
+      description: New genomics visualization library!
+
+
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - EMBO Conference - Full Travel Grant
+        - Graduate School of Sciences and Engineering (GSSE) Academic Excellence Award 2022
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Molecular Biology
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Functional genomics
+        - Gene transcription
+        - Enhancer function
+        - Transcription factors
+        - Chromatin interaction
+        - Single-Cell transcriptomics/genomics
+    - title: Computational Science
       items:
-        - Description 1.
-        - Description 2.
+        - Deep learning
+        - Graph Convolutional neural network
+        - Biological data analysis
+        - Pipeline development
+        
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Digital/Analog photography, Acriylic paining, Plant daddy
