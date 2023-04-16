@@ -30,6 +30,6 @@ My name is Berkay (Bear-Kai), a childlike researcher trying to explore the world
 
 **A bit nerd:** I am currently a Ph.D. student in Bioinformatics program at University of British Columbia (UBC), working in Vancouver Prostate Centre (VPC). With that said, I am a proud member of [Lack Lab](https://lacklab.ku.edu.tr/). Check out our cool publications!
 
-**A bit artsy:** Visual apealling satisfies me a lot. I love photography, digital or analog. Don't forget to check some of my [galleries](/al-folio/gallery/)!
+**A bit artsy:** Visual apealling satisfies me a lot. I love photography, digital or analog. Don't forget to check some of my [galleries](/gallery/)!
 
 **A bit traverler:** Who wouldn't like travelling. As everybody, I as well try my best to visit and experience as much cities as possible. 
