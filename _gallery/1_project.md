@@ -66,7 +66,9 @@ I hope you will enjoy the scenery..
         {% include figure.html path="assets/img/DT/granville.png" title="granville" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
     <div class="col-md-3 mt-3 mt-md-0">
+    <a href="https://www.google.com/maps/">
         {% include figure.html path="assets/img/DT/henshaw.png" title="henshaw" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </a>
     </div>
     <div class="col-md-3 mt-3 mt-md-0">
         {% include figure.html path="assets/img/DT/hornby.png" title="hornby" class="img-fluid rounded z-depth-1" zoomable=true%}
@@ -76,7 +78,20 @@ I hope you will enjoy the scenery..
     </div>
 </div>
 
-{{post.clue}}
+<div class="row">
+    <div class="col-md-3 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/DT/jervis.png" title="jervis" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+    <div class="col-md-3 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/DT/pendrell.png" title="pendrell" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+    <div class="col-md-3 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/DT/robson.png" title="robson" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+    <div class="col-md-3 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/DT/stovold.png" title="stovold" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
 
 
-Here is a [clue]!
+Here is a [clue](/assets/img/DT/henshaw-(1).png)!
