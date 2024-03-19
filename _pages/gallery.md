@@ -5,7 +5,7 @@ permalink: /gallery/
 description: A glimpse of art.
 nav: true
 nav_order: 3
-display_categories: [photography]
+display_categories: [photography, academia]
 horizontal: false
 ---
 
