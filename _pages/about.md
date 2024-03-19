@@ -26,10 +26,9 @@ Thank you for asking :)
 
 ---
 
-My name is Berkay (Bear-Kai), a childlike researcher trying to explore the world on its own. 
+My name is Berkay (Bear-Kai), a professional dreamer, devoted visual [artist](/gallery/)! and keen travelist!
 
-**A bit nerd:** I am currently a Ph.D. student in Bioinformatics program at University of British Columbia (UBC), working in Vancouver Prostate Centre (VPC). With that said, I am a proud member of [Lack Lab](https://lacklab.ku.edu.tr/). Check out our cool publications!
+**A bit nerd:** I am currently a Ph.D. student in the Bioinformatics program at the University of British Columbia (UBC), working at Vancouver Prostate Centre (VPC). With that said, I am a proud member of [Lack Lab](https://lacklab.ku.edu.tr/). Check out our cool publications!
 
-**A bit artsy:** Visual apealling satisfies me a lot. I love photography, digital or analog. Don't forget to check some of my [galleries](/gallery/)!
+I am also one of the editors of [ODTUCAN](https://odtualumnicanada.ca/magazine/) magazine!
 
-**A bit traverler:** Who wouldn't like travelling. As everybody, I as well try my best to visit and experience as much cities as possible. 
