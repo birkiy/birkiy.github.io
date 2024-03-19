@@ -30,5 +30,4 @@ My name is Berkay (Bear-Kai), a professional dreamer, devoted visual [artist](/g
 
 **A bit nerd:** I am currently a Ph.D. student in the Bioinformatics program at the University of British Columbia (UBC), working at Vancouver Prostate Centre (VPC). With that said, I am a proud member of [Lack Lab](https://lacklab.ku.edu.tr/). Check out our cool publications!
 
-I am also one of the editors of [ODTUCAN](https://odtualumnicanada.ca/magazine/) magazine!
-
+I take great pride in being one of the editors of [ODTUCAN](https://odtualumnicanada.ca/magazine/) magazine!
